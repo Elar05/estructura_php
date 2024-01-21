@@ -1,0 +1,18 @@
+{
+    "name": "elar/mvc",
+    "autoload": {
+        "psr-4": {
+            "Elar\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elar",
+            "email": "elarlopezcortez6@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "bramus/router": "^1.6"
+    }
+}
